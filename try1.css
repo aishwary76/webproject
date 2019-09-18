@@ -1,0 +1,378 @@
+body{
+    background-color:whitesmoke;
+}
+.form-control{
+    display: inline-block;
+}
+h1{
+    margin: 20px;
+    font-family: sans-serif;
+}
+.nav-item :hover{
+    transform: scale(1.1);
+    color: white;
+    background: #007BFF;
+    border-radius: 6px;
+    transition: .5s;
+
+}
+.nav-item {
+    margin: 0 10px 0 10px;
+}
+.mid{
+    margin-left: 45%;
+    margin-top: 6%;
+    margin-bottom: 8%;
+    
+}
+.images{
+    margin: 5px 20px 20px 30px;
+    
+}
+.imgdisc{
+    float: left;
+    display: inline-block;
+}
+.imgdisc{
+    float: right;
+    display: inline-block;
+}
+.btn:hover{
+    transition: scale(1.2);
+}
+
+
+.box
+{   
+    position: absolute;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    padding: 20px;
+    margin-left: 20px;
+    box-sizing: border-box;
+    background: #343A40;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 316px;
+}
+
+.box:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+    transform:scale(1.03);
+}
+.box2
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    padding: 20px;
+    box-sizing: content-box;
+    background: #343A40;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.box2:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+    transform:scale(1.03);
+}
+.box3
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    margin-left: 20px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    padding: 20px;
+    box-sizing: content-box;
+    background: #343A40;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.box3:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+    transform:scale(1.03);
+}
+.box4
+{   
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    padding: 20px;
+    box-sizing: content-box;
+    background: #343A40;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.box4:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+    transform:scale(1.03);
+}
+.boxl1
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    padding: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+    margin-left: 20px;
+}
+.boxl1:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.boxl2
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    padding: 20px;
+    margin-left: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.boxl2:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.boxl3
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    padding: 20px;
+    margin-left: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.boxl3:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.boxl4
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    margin-left: 20px;
+    padding: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.boxl4:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.boxs1
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    margin-left: 20px;
+    padding: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.boxs1:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.boxs2
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    margin-left: 20px;
+    padding: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.boxs2:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.boxs3
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    margin-left: 20px;
+    padding: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.boxs3:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.boxs4
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    margin-left: 20px;
+    padding: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.boxs4:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.boxb1
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    margin-left: 20px;
+    padding: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.boxb1:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.boxb2
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    padding: 20px;
+    margin-left: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.boxb2:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.boxb3
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    margin-left: 20px;
+    padding: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.boxb3:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.boxb4
+{   
+    margin-top: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    left: 24%;
+    margin-left: 20px;
+    padding: 20px;
+    box-sizing: content-box;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0,0,.5);
+    display: inline-block;
+    width: 308px;
+}
+.boxb4:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,5);
+    transition: .5s;
+}
+.images img
+{
+    box-shadow: 0px 5px 10px rgba(0, 0,0,.5);
+    margin-right: 15px;
+    margin-left: 15px;
+    border-radius: 4px;
+}
+.images img:hover{
+    transform:scale(1.05);
+    transition: .5s;
+    box-shadow: 0 15px 30px rgba(0, 0,0,.5);
+}
